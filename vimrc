@@ -238,3 +238,6 @@ let g:ycm_confirm_extra_conf=0
 
 nmap <leader>g :YcmCompleter GoTo<CR>
 nmap <leader>d :YcmCompleter GoToDefinition<CR>
+
+set rnu
+set wildmenu
