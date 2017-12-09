@@ -88,6 +88,3 @@ echo "${NORMAL}"
 
 wrapper
 vim +PluginInstall
-
-cd ~/.vim/bundle
-git clone git://github.com/tpope/vim-unimpaired.git
