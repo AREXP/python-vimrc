@@ -52,7 +52,7 @@ call vundle#begin()
     "-------------------=== Python  ===-----------------------------
     Plugin 'klen/python-mode'                   " Python mode (docs, refactor, lints...)
     Plugin 'scrooloose/syntastic'               " Syntax checking plugin for Vim
-    Plugin 'tpope/unimpaired.vim'
+    Plugin 'tpope/vim-unimpaired'
 
 call vundle#end()                           " required
 filetype on
